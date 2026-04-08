@@ -37,6 +37,9 @@ publish/
 *.opendb
 *.VC.db
 *.VC.VC.opendb
+bin/
+obj/
+*.user
 
 # =========================
 # Visual Studio Code
